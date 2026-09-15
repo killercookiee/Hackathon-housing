@@ -17,7 +17,7 @@ export default async function LandingPage() {
             <span className="flex size-7 items-center justify-center rounded-md bg-primary text-primary-foreground">
               <Sparkles className="size-4" />
             </span>
-            Cortex
+            DeltaConst
           </div>
           <div className="flex items-center gap-2">
             <Button variant="ghost" size="sm" render={<Link href="/sign-in" />} nativeButton={false}>

@@ -40,7 +40,7 @@ export function SiteHeader({ user }: { user: { name: string; email: string } }) 
           <span className="flex size-7 items-center justify-center rounded-md bg-primary text-primary-foreground">
             <Sparkles className="size-4" />
           </span>
-          Cortex
+          DeltaConst
         </Link>
         <DropdownMenu>
           <DropdownMenuTrigger render={<Button variant="ghost" size="sm" className="gap-2" />}>

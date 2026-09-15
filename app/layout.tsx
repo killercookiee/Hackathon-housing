@@ -14,7 +14,7 @@ const fontMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "Cortex - AI Analysis Studio",
+  title: "DeltaConst - AI Analysis Studio",
   description: "Create projects, attach files, confirm your input, and get AI-powered analysis reports.",
 }
 
